@@ -1,25 +1,25 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+﻿![Logo UNAHUR](./assets/hola.jpg)
 
-Bienvenidos a
-# Programación con objetos I
+Bienvenidos a mi presentación
+# Mi nombre es Jesica Rodriguez
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
+Soy estudiante de la Tecnicatura en Programación.
+Además de otra materias, esty cursando programación con objetos 1. En esta materia aprenderé sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
 Para ello usaremos como herramienta el lenguaje Wollok.
 
 ```
 object programacionConObjetos { 
     method saludar() { 
-        return  "Bienvenidxs!" 
+        return  "Hola a todxs!" 
     }
 }
 ```
 
 ## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **noche**: Martes 18hs.
-* Horario comisión **tarde**: Jueves 14hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo y Matías Müller
+:point_right:Modalidad Mixta
+:point_right:Horario  de mi comisión **turno noche**: Martes 18hs.
+
+
 
 ## Links importantes :monocle_face:
 - [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
